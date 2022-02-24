@@ -1,2 +1,5 @@
-# client-charging-app
- A user & client management, subscription charging & invoicing back-end I built as a practice project using Node.js, Express & MongoDb Atlas.
+# client-charging-app (2020-01)
+
+A RESTful API I built as a way to learn & experiment with Node.js, Express & MongoDb Atlas.
+
+Its a basic back-end who's functions include user & client account management, subscription charging & invoicing via email, and "model" provision. A "model" referring to an information model for controlling & managing project information in the BIM/PIM arena (e.g. providing a means of managing common data environments).
